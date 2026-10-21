@@ -1,6 +1,6 @@
-# 🛡️ InsurePay - Insurance Premium Collection Platform
+# 🛡️ PremiumCollect - Insurance Premium Collection Platform
 
-InsurePay is a comprehensive, responsive, frontend-only web application designed to manage insurance policyholders, calculate dues with automated tax breakdown (18% GST), collect counter payments, generate printable thermal/A4 receipts, and reconcile daily transactions.
+PremiumCollect is a comprehensive, responsive, frontend-only web application designed to manage insurance policyholders, calculate dues with automated tax breakdown (18% GST), collect counter payments, generate printable thermal/A4 receipts, and reconcile daily transactions.
 
 Built entirely with **HTML5, Tailwind CSS, Vanilla JavaScript (ES6+), and Chart.js**, this application operates seamlessly in any browser with zero backend dependencies, utilizing browser `localStorage` for state persistence.
 
